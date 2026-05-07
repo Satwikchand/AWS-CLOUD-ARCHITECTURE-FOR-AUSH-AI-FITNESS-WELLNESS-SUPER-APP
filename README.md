@@ -765,5 +765,4 @@ Start with:
 Then scale gradually.
 
 
-
-![diagram-export-5-7-2026-3_23_15-PM](C:\Users\DELL\Desktop\diagram-export-5-7-2026-3_23_15-PM.png)
+![preview](./diagram-export-5-7-2026-3_23_15-PM.png)
